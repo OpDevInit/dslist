@@ -2,7 +2,6 @@ package com.opokaynow.dslist.DTOS;
 
 import com.opokaynow.dslist.entities.Game;
 
-import jakarta.persistence.Column;
 
 public class GameMinDTO {
 
