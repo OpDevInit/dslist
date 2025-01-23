@@ -8,7 +8,7 @@ import jakarta.persistence.Table;
 @Table(name = "tb_belonging")
 public class Belonging {
 
-    //Id incorporado por 2 "sub IDs" da classe BelongingPK
+    //Id incorporado por 2 "sub IDs" da classe BelongingPK 
     @EmbeddedId
     private BelongingPK id = new BelongingPK();
 

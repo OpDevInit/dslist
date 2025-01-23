@@ -1,5 +1,4 @@
 package com.opokaynow.dslist.entities;
-import java.util.Objects;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
